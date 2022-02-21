@@ -1,3 +1,7 @@
 unix
 bash
 git
+html
+python
+soft skills
+muito mais
